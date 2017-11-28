@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{DFE8B751-9CF2-05B3-0B47-B16738AADB9C}|">
+  <MonoDevelop.Ide.ItemProperties.CurveFever PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Trail.cs" Line="37" Column="10" />
+      <File FileName="Assets/Head.cs" Line="31" Column="32" />
+      <File FileName="Assets/GameManager.cs" Line="9" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
